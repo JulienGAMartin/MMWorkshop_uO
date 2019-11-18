@@ -5,7 +5,7 @@ The practical part of the workshop will be using R and require the follwong pack
 
 - lmerTest
 - nadiv
--tidyverse
+- tidyverse
 - broom
 - gridExtra
 - lattice
